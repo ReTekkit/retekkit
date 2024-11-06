@@ -1,0 +1,9 @@
+hash-format = "sha256"
+
+[[files]]
+file = "icon.png"
+hash = "980eabf7e565ec2540e6b09daf6679c2244965831c1384554e0aed805d2df80d"
+
+[[files]]
+file = "readme.md"
+hash = "39c82fb0a28b7c86fa895e5769ddf03ebe523efdac1191ea549257fb9edf66d7"

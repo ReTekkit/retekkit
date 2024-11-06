@@ -1,0 +1,13 @@
+name = "ReTekkit"
+author = "ReTekkit Team"
+version = "0.1-beta"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2c5ff3c802fb1bc9a58cfd01602f322fbf048bed82af96181bb29cd84d139021"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.74"
