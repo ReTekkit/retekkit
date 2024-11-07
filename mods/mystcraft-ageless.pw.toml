@@ -1,0 +1,13 @@
+name = "Mystcraft: Ageless"
+filename = "mystcraft_ageless-0.2.2-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Olgeoshd/versions/NmzrTHXN/mystcraft_ageless-0.2.2-alpha.jar"
+hash-format = "sha512"
+hash = "ee87a076bbf6c97a9fa902d824a23d6eed1e3430406c3b1356a04322318411796499b33648dede27f69ebd8c229f09a24e629f1eb4338cd9355aaa2e937460ac"
+
+[update]
+[update.modrinth]
+mod-id = "Olgeoshd"
+version = "NmzrTHXN"

@@ -1,0 +1,13 @@
+name = "Buildcraft-Legacy"
+filename = "buildcraft-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTaa2o7Y/versions/OfBvaqlI/buildcraft-1.0.4.jar"
+hash-format = "sha512"
+hash = "755907c5bc6c3ac4ce822b21aebe8e515847f8b6e19283857816efdb70e9d208842859c9bb60735a469678752ed2347414e96959a814dc1f38772d07c110dbb5"
+
+[update]
+[update.modrinth]
+mod-id = "LTaa2o7Y"
+version = "OfBvaqlI"

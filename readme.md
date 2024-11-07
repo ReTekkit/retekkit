@@ -27,7 +27,7 @@ just use `ReTekkit-dev`).
 	whatever version ReTekkit is using. This can be found in `pack.toml`.
 3. Download the latest `packwiz-installer-bootstrap.jar` from
 [here](https://github.com/packwiz/packwiz-installer-bootstrap/releases) and put
-it in the instance's folder.
+it in the instance's `.minecraft` folder (the dot may or may not be present).
 	- This is used to automatically update the pack when you make a change
 4. Then, in your instance's settings, set the pre-launch command to this:
 `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar http://localhost:8080/pack.toml`

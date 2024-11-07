@@ -5,5 +5,151 @@ file = "icon.png"
 hash = "980eabf7e565ec2540e6b09daf6679c2244965831c1384554e0aed805d2df80d"
 
 [[files]]
-file = "readme.md"
-hash = "39c82fb0a28b7c86fa895e5769ddf03ebe523efdac1191ea549257fb9edf66d7"
+file = "mods/ai-improvements.pw.toml"
+hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "515e6bb16a175b9d23a85e9d4ea1c00145d3b85ccb44dc3d8762209538b5c3ba"
+metafile = true
+
+[[files]]
+file = "mods/balkons-weaponmod-legacy.pw.toml"
+hash = "baf26e8f115cb040f55753feb3888c986f8687759a991000c25bf47ba72de707"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "b7d562bc0145b1e3dc5040656081ecea7102b2db176047a909d5cb11801d8871"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "fcd91625ba584d6ec769a3210d178dcbd82eb8b0b8254c7c65140f925a11d4b6"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "87c68be25488cc53300fd4cbc30538392a0af4332551846ff9252eca1bea372e"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "11e90b6ebd7a0900e396f9e713ce9f0fb2ec8831bf1e0183ee2f7b145f6388a0"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "3be67e500f6c6369a38b79c38320cce2eb3f6553e3d169cfc153081c2409faaf"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "69af39e0ba517a150f4218c9eb4578255eee8acd6b37f1072a4d9ce257a2732a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "0e7350f45873226d5860dafcc6bc81aa398d1eb49aa94049a01cc4367b4cee95"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "500ad3c505b078edf2a8c105b4d1929e88a94c654d9fd3cecc635933b12a1a22"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "5c7c1e0183300702f0e0508228848eebfc255a018dad24b3bb07f1bdd7c14534"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "2d886051f3742861ea97c629437ecfb0002852a8db8f3d2c56411a7d8e0b949e"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "39ae423100c90ae989147b69e10b0f0a9c1dc934a986ba106f12f6362e252336"
+metafile = true
+
+[[files]]
+file = "mods/legacy-buildcraft.pw.toml"
+hash = "c7d968dd35ad1bb5abbfbd4e50118ad386eca6cffe43a1b4186be34ab11a464b"
+metafile = true
+
+[[files]]
+file = "mods/minefactorial.pw.toml"
+hash = "d424c3b5bad2333e27c22a8e9ef8d715c6e59895e1702dfb7d5af039d23120db"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "895e7a90af3348a32be2b0021ddf6560dc3a3fc4e2912a7a1927a4d57b2bf21f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/mystcraft-ageless.pw.toml"
+hash = "c7f22ce4ffb51d257a6fa989d8314d9540120a83cd65eba6a8470d760734af17"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "9cdd613590f0d3cd2712471c94b617810417ee43c57e5cce040b06c2c2e416db"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "e1bac320595f51e87fa3eb8daf3a286d997ceaf21673f94d9d588cdb0fdff106"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f6fd457e9ef15295b97d7eaa6315fb6e883cdc51c98aca5fc22a517fbeae4eb3"
+metafile = true
