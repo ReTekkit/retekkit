@@ -36,12 +36,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "fcd91625ba584d6ec769a3210d178dcbd82eb8b0b8254c7c65140f925a11d4b6"
+hash = "0cea32c14ebfbb49c57465c223fb9b2c136a3eede56a2568389c62da054b510a"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "87c68be25488cc53300fd4cbc30538392a0af4332551846ff9252eca1bea372e"
+hash = "2e5984f03456ad42f39dc1964b4b2f0f86613f2bda34dcccff3c2c846d6cb307"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "500ad3c505b078edf2a8c105b4d1929e88a94c654d9fd3cecc635933b12a1a22"
+hash = "5ffd03a8cbc1d35265ea7425356e6c2086ffd16ffd198a2a69de5b2b650a227d"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "2d886051f3742861ea97c629437ecfb0002852a8db8f3d2c56411a7d8e0b949e"
+hash = "ed7d500877392d0dc94accef28e94c5035c74f4581b7ac1522a90ce18d2ab6b0"
 metafile = true
 
 [[files]]
@@ -101,12 +101,12 @@ metafile = true
 
 [[files]]
 file = "mods/legacy-buildcraft.pw.toml"
-hash = "c7d968dd35ad1bb5abbfbd4e50118ad386eca6cffe43a1b4186be34ab11a464b"
+hash = "44a90dfc78efabae44f30ff5b77b956350f43695a56146bd0fca55fbaa31a824"
 metafile = true
 
 [[files]]
 file = "mods/minefactorial.pw.toml"
-hash = "d424c3b5bad2333e27c22a8e9ef8d715c6e59895e1702dfb7d5af039d23120db"
+hash = "391e2e32442514906cefc0c37df80f42d5060ef0f57149c5894c8ba0c9f805ca"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystcraft-ageless.pw.toml"
-hash = "c7f22ce4ffb51d257a6fa989d8314d9540120a83cd65eba6a8470d760734af17"
+hash = "acc7a54e36c63ff0a382b6f814b6c429f4b899b5dd0f7a8199b1f9dd7d61dbf5"
 metafile = true
 
 [[files]]
@@ -151,5 +151,5 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f6fd457e9ef15295b97d7eaa6315fb6e883cdc51c98aca5fc22a517fbeae4eb3"
+hash = "8060272fe07b2506170b23077472468be6cf87b4593ad42e16a22e1f1ab69769"
 metafile = true

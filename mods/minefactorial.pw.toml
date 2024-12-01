@@ -1,13 +1,13 @@
 name = "MineFactorial"
-filename = "minefactorial-0.1.1-modfest.jar"
+filename = "minefactorial-1.0.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4sjHMjq5/versions/yOb70ayL/minefactorial-0.1.1-modfest.jar"
+url = "https://cdn.modrinth.com/data/4sjHMjq5/versions/rsHsVfqr/minefactorial-1.0.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "f76edc9897e21ee0cda9152112f4971729d9fbd4f657dc222ec68d441f521787e8420c86d9212db3366ed8fce67c43b02d9959f78c471741607e9ec0b66af3fb"
+hash = "90e8270c0c45e3b49e5370d6a0b47ee125e32214bd4f3024f437833fa544ab3e8ea97f9da0b648b56ccc32025550089e3fdd92c1fd26502b5feb61c60f8ff16c"
 
 [update]
 [update.modrinth]
 mod-id = "4sjHMjq5"
-version = "yOb70ayL"
+version = "rsHsVfqr"
