@@ -1,0 +1,13 @@
+name = "YUNG's API"
+filename = "YungsApi-1.21.1-NeoForge-5.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/MoMQNZ94/YungsApi-1.21.1-NeoForge-5.1.3.jar"
+hash-format = "sha512"
+hash = "0c7323c49ec9a2d91cdeabbd053de1654c0ecfa5b216a487116e39e43d0ff203f31e1239f0ef30910bf20a6d0fcbae16e27e9503514c4f5906c068a942f3abf6"
+
+[update]
+[update.modrinth]
+mod-id = "Ua7DFN59"
+version = "MoMQNZ94"

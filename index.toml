@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "515e6bb16a175b9d23a85e9d4ea1c00145d3b85ccb44dc3d8762209538b5c3ba"
+hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
 
 [[files]]
@@ -31,7 +31,17 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "b7d562bc0145b1e3dc5040656081ecea7102b2db176047a909d5cb11801d8871"
+hash = "b0d8d17a1725291b4cdb4c684813414be0abbf67ec1cb52ffd70c6d540794aba"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
+metafile = true
+
+[[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "7a7586f23acf285e5e907bf4f85cb82f0009346e3d070333ad76c2c1a046005b"
 metafile = true
 
 [[files]]
@@ -66,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "69af39e0ba517a150f4218c9eb4578255eee8acd6b37f1072a4d9ce257a2732a"
+hash = "116b6f924be2482528244f99447ea8a53ebcae60ffc46551f301378e58487797"
 metafile = true
 
 [[files]]
@@ -80,8 +90,18 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "fc70a9ca7bbd9bd763945cd20491bec23ded4404e7e95ed3fa05facf45eaaacc"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "ae090cbebafa154ceec8e76d39e91349b94823c86762e75536c7cea4f4cb83ff"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ffd03a8cbc1d35265ea7425356e6c2086ffd16ffd198a2a69de5b2b650a227d"
+hash = "3d0ea2b9c47dab31e5231cb17b33cd4716706c18521bb1c81cd40ea5dbbeed73"
 metafile = true
 
 [[files]]
@@ -91,12 +111,17 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ed7d500877392d0dc94accef28e94c5035c74f4581b7ac1522a90ce18d2ab6b0"
+hash = "976a897717e0cab6212b0bf2537a7edadf7e684ea288c178d21290a88e3f517e"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "39ae423100c90ae989147b69e10b0f0a9c1dc934a986ba106f12f6362e252336"
+hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "3dd9d3933a5a332de135d0ecf252d367844ea71e895fc63648fc7339b95feeb3"
 metafile = true
 
 [[files]]
@@ -105,8 +130,13 @@ hash = "44a90dfc78efabae44f30ff5b77b956350f43695a56146bd0fca55fbaa31a824"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "1e0e48cc2fbe7b961c0dd5286b5a1786564b63b2fbc268eda2cbb2ec80612a0b"
+metafile = true
+
+[[files]]
 file = "mods/minefactorial.pw.toml"
-hash = "391e2e32442514906cefc0c37df80f42d5060ef0f57149c5894c8ba0c9f805ca"
+hash = "4b580adb58c24cd22aa16d5b7b86d89803d439e2d4c7989c4f880e5659c24c1c"
 metafile = true
 
 [[files]]
@@ -116,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "895e7a90af3348a32be2b0021ddf6560dc3a3fc4e2912a7a1927a4d57b2bf21f"
+hash = "f71328fd3b783e4541d7ecc45e7f07782d1e6b3f3f4ff2dd147509ae2ade4bd3"
 metafile = true
 
 [[files]]
@@ -135,8 +165,13 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "74d96b4361faf4457a439bcc2a1656625a22dfc656164091e89a3ba676880867"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
-hash = "9cdd613590f0d3cd2712471c94b617810417ee43c57e5cce040b06c2c2e416db"
+hash = "b341fa05b99ed001f4e6c9cd51920070bcb164832307de2cb590637e09d47f3b"
 metafile = true
 
 [[files]]
@@ -151,5 +186,15 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8060272fe07b2506170b23077472468be6cf87b4593ad42e16a22e1f1ab69769"
+hash = "9050cb92f35f8057726ec547ba3306726a1a4f3b5ed0d147b70d2dc30dcff582"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "0df3146d35a0d29e2a7011aa4cd1c1233b1151edc13ff723af04e71458c8ea03"
 metafile = true
